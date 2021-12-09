@@ -89,7 +89,7 @@ public class Mov_Imagenes : MonoBehaviour
                     checkPosition(new int[] { 56, 106, 362, 460 }, new string[] { "verano", "primavera" }, new int[] { 407, 90 });
                     break;
                 case "Gafas de Sol":
-                    checkPosition(new int[] { 162, 205, 363, 473 }, new string[] { "verano"}, new int[] { 409, 189 });
+                    checkPosition(new int[] { 150, 205, 363, 473 }, new string[] { "verano"}, new int[] { 409, 189 });
                     break;
             }
             
