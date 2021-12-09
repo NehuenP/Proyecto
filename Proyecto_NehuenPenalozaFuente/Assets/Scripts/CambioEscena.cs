@@ -50,4 +50,8 @@ public class CambioEscena : MonoBehaviour
     {
         SceneManager.LoadScene("Inicio");
     }
+    public void close()
+    {
+        Application.Quit();
+    }
 }
